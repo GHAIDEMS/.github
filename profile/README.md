@@ -74,31 +74,17 @@ We recognise that complex developmental challenges rarely have universal solutio
 
 ### Our Guiding Principles
 
-**1. Scalable Impact**
+1. Scalable Impact: Developing solutions that can be adapted and applied in different contexts.
 
-We look beyond individual solutions to understand how successful interventions can be adapted, replicated, and applied in other contexts to achieve broader impact.
+1. Options by Context: Recognising that solutions must respond to the realities of the environments in which they are implemented.
 
-**2. Options by Context**
+1. Systems Thinking: Understanding the broader systems and relationships within which problems exist.
 
-We believe that solutions must respond to the realities of the environments in which they are implemented. We avoid assuming that a single approach will work everywhere.
+1. Inclusivity: Valuing diversity and creating opportunities for meaningful participation.
 
-**3. Systems Thinking**
+1. Informed Decision-Making: Grounding decisions in evidence, critical thinking, and an understanding of uncertainty.
 
-We consider the broader systems within which problems exist, recognising the relationships and interdependencies between different activities, stakeholders, and outcomes.
-
-**4. Inclusivity**
-
-We value diversity and strive to create an environment where individuals from different backgrounds can contribute meaningfully and achieve their personal and collective potential.
-
-**5. Informed Decision-Making**
-
-We encourage decisions grounded in relevant evidence, critical thinking, and a clear understanding of uncertainty and limitations.
-
-**6. Collaboration and Collective Responsibility**
-
-We believe that meaningful progress depends on people working together, sharing knowledge, taking initiative, and accepting responsibility for collective outcomes.
-
-We also value long-term partnerships and incremental progress, recognising that sustainable solutions often require continuous learning, adaptation, and improvement.
+1. Collaboration and Collective Responsibility: Encouraging teamwork, knowledge sharing, and shared ownership.
 
 Read more about our approach: [How We Work](https://www.ghaidems.org/Work.html).
 
@@ -108,25 +94,154 @@ Our portfolio reflects the breadth of our interests and our commitment to applyi
 
 Some of the projects and initiatives we have been involved in include:
 
-### Social Development, Data & Software
+## Social Development, Data & Software
 
-- **[R-Instat](https://www.ghaidems.org/Our_works.html):** An open-source statistical software application designed to make data management, analysis, and visualisation more accessible.
-- **[DocmeUP](https://www.ghaidems.org/Our_works.html):** A project within our social development portfolio.
-- **[Satellite and Station Data Comparison](https://www.ghaidems.org/Our_works.html):** Work involving the comparison of satellite-derived estimates and ground-based station observations.
+#### R-Instat
+- An open-source statistical software application that integrates the R programming language with an intuitive graphical user interface. R-Instat makes data management, statistical analysis, and visualisation more accessible to students, researchers, and analysts.
+
+_Technology Stack_
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="VB.NET">
+</p>
+
+- **R:** Statistical computing, data analysis, and visualisation.
+- **VB.NET:** Desktop application development and graphical user interface.
+
+Project: [R-Instat](https://www.ghaidems.org/r-instat.html) · [Official Website](https://www.r-instat.org/)
+
+#### DocmeUP
+- A maternal healthcare initiative developed through collaboration involving academics from ETH Zurich, IIT, and AIMS Ghana, including GHAIDEMS members.
+
+**Technology & Platforms**
+
+- Mobile technology and portable ultrasound devices.
+- Remote ultrasound and medical image analysis.
+- SMS-based communication and management systems.
+- Centralised patient data management.
+
+<sub>The original project's detailed software implementation stack is not specified in the public project description.</sub>
+
+Project: [DocmeUP](https://www.ghaidems.org/docmeup.html) 
+
+#### Satellite and Station Data Comparison
+- Work involving the comparison of satellite-derived estimates with ground-based meteorological station observations. This supports the evaluation of climate datasets and their usefulness in different contexts.
+
+_Technology Stack_
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R--Instat-276DC3?style=flat-square" alt="R-Instat">
+</p>
+
+- **R:** Statistical analysis and data processing.
+- **Python:** Data processing and computational analysis.
+- **R-Instat:** Statistical analysis and exploration of climate datasets.
+
 
 ### Agriculture & Climate
 
-- **[PICSA](https://www.ghaidems.org/Our_works.html):** Participatory Integrated Climate Services for Agriculture, supporting the communication and use of climate information in agricultural decision-making.
-- **[Climate Data Rescue and Analysis]((https://www.ghaidems.org/Our_works.html)):** Initiatives involving climate data management, quality assurance, and the development of climate products for meteorological services and other stakeholders.
-- **[R-Instat Training](https://www.ghaidems.org/Our_works.html):** Supporting the use of statistical software and data analysis techniques in climate and related applications.
+#### PICSA
+- Participatory Integrated Climate Services for Agriculture (PICSA), an approach that supports smallholder farmers in making informed agricultural and livelihood decisions using climate and weather information.
+
+**Tools & Methods**
+
+- Historical climate and weather datasets.
+- Seasonal climate forecasts.
+- Participatory budgets and planning tools.
+- Climate information analysis and communication.
+- Agricultural and livelihood risk assessment.
+
+<sub>PICSA is a participatory methodology rather than a standalone software application. Specific software tools vary by implementation.</sub>
+
+Project: [PICSA](https://www.ghaidems.org/picsa.html) · [PICSA Resources](https://research.reading.ac.uk/picsa/)
+
+
+#### Climate Data Rescue and Analysis
+- Initiatives involving climate data management, quality assurance, and the development of climate products for meteorological services and other stakeholders.
+
+_Technology Stack & Tools_
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R--Instat-276DC3?style=flat-square" alt="R-Instat">
+</p>
+
+- **R:** Climate data processing, statistical analysis, and visualisation.
+- **Python:** Data processing and computational analysis.
+- **R-Instat:** Climate data management, quality assurance, and analysis.
+
+
+#### R-Instat Training
+- Supporting the use of statistical software and data analysis techniques in climate and related applications.
+
+_Technology Stack_
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R--Instat-276DC3?style=flat-square" alt="R-Instat">
+</p>
+
+- **R:** Data wrangling, statistical computing, and visualisation.
+- **R-Instat:** Accessible statistical analysis and data exploration.
 
 ### Education & Mathematical Sciences
 
-- **[Virtual Maths Camp](https://www.ghaidems.org/Our_works.html):** An educational initiative supporting mathematics learning and engagement.
-- **[STACK in Moodle for Tertiary Education](https://www.ghaidems.org/Our_works.html):** Exploring computer-based mathematical assessment using STACK and Moodle.
-- **[ESSA](https://www.ghaidems.org/Our_works.html):** An initiative within our education portfolio.
+#### Virtual Maths Camp
+- An educational initiative supporting mathematics learning and engagement.
 
-Our portfolio continues to evolve as we identify new opportunities for collaboration, research, and innovation.
+
+**Technology & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</p>
+
+- **Telegram:** Interactive mathematical learning activities and chatbot-based experiences.
+- **WhatsApp:** Communication and distribution of learning resources.
+- **Interactive Chatbots:** Supporting mathematical games and card-based activities.
+- **Pause-and-Go Videos:** Guided learning through video resources with planned pauses for reflection and problem-solving.
+
+Project: [Virtual Maths Camp](https://www.ghaidems.org/math-camps.html) · [Project Website](https://virtualmathscamp.com/)
+
+#### STACK - Online Mathematics Assessment
+- GHAIDEMS contributes to initiatives that use STACK (System for Teaching and Assessment using a Computer Algebra Kernel) to improve mathematical assessment and feedback in tertiary education.
+- STACK enables educators to create interactive mathematical questions that automatically evaluate student responses and provide targeted feedback.
+
+_Technology Stack_
+
+<p>
+  <img src="https://img.shields.io/badge/STACK-2E6D50?style=flat-square" alt="STACK">
+  <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white" alt="Moodle">
+  <img src="https://img.shields.io/badge/Maxima-555555?style=flat-square" alt="Maxima">
+</p>
+
+- **STACK:** Computer-based mathematical assessment and automated feedback.
+- **Moodle:** Learning Management System integration and delivery of assessments.
+- **Maxima:** Computer Algebra System (CAS) used by STACK for symbolic mathematical evaluation.
+
+Project: [STACK](https://www.ghaidems.org/stack.html) · [Official STACK Website](https://stack-assessment.org/)
+
+#### ESSA
+- GHAIDEMS members contributed to a collaborative research initiative involving Education Sub-Saharan Africa (ESSA) and IDEMS International.
+- The project investigated the state of statistics education in tertiary institutions in Ghana, identifying existing activities, challenges, and opportunities for strengthening statistics education.
+
+**Research Tools & Methods**
+
+- Semi-structured questionnaires.
+- Focus group discussions.
+- Institutional data collection.
+- Qualitative and descriptive analysis.
+- Research reporting and documentation.
+
+<sub>This is primarily a research and data-collection initiative; a specific software implementation stack is not identified in the public project description.</sub>
+
+Project: [ESSA](https://www.ghaidems.org/essa.html)
 
 Explore more of our projects: [Our Works](https://www.ghaidems.org/Our_works.html).
 
